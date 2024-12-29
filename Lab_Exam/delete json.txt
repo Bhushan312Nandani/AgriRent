@@ -1,0 +1,4 @@
+posts (Collection)
+  - postId (Document)
+    - content: "Post content"
+    - userId: "123" (ID of the user who created the post)
