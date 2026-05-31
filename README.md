@@ -1,3 +1,16 @@
+# AgriRent - Agricultural Equipment Rental Mobile App
+
+**React Native** mobile application connecting farmers with equipment owners for renting tractors, loaders, and tools.
+
+**Key Features**:
+- Real-time equipment availability
+- Booking & management system
+- Secure payments
+- Equipment reviews & ratings
+
+**Tech**: React Native, JavaScript/TypeScript
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
